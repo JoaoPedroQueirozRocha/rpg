@@ -1,0 +1,4 @@
+.formUsuario{
+    display: flex;
+    flex-direction: column;
+}
